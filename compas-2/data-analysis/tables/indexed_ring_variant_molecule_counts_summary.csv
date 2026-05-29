@@ -1,0 +1,25 @@
+variant,molecules,variant_label
+14diborinine__B_1_4,180787,"DiBorinine (dbrn) [B:1,4]"
+borinine__B_1,91475,Borinine (brn) [B:1]
+borinine__B_2,26058,Borinine (brn) [B:2]
+borinine__B_3,7926,Borinine (brn) [B:3]
+borinine__B_4,81169,Borinine (brn) [B:4]
+borole__B_1,110585,Borole (bor) [B:1]
+borole__B_2,11545,Borole (bor) [B:2]
+borole__B_3,77930,Borole (bor) [B:3]
+cyclobutadiene__none_none,178355,Cyclobutadiene (cbd)
+dhdiborinine__B_1_4,160465,"Dhydrodiborinine (dhdb) [B:1,4]"
+furan__O_1,108943,Furan (fur) [O:1]
+furan__O_2,12208,Furan (fur) [O:2]
+furan__O_3,78172,Furan (fur) [O:3]
+pyrazine__N_1_4,175284,"Pyrazine (pyz) [N:1,4]"
+pyridine__N_1,89464,Pyridine (pyd) [N:1]
+pyridine__N_2,25880,Pyridine (pyd) [N:2]
+pyridine__N_3,8059,Pyridine (pyd) [N:3]
+pyridine__N_4,80891,Pyridine (pyd) [N:4]
+pyrrole__N_1,110327,Pyrrole (pyl) [N:1]
+pyrrole__N_2,11832,Pyrrole (pyl) [N:2]
+pyrrole__N_3,78884,Pyrrole (pyl) [N:3]
+thiophene__S_1,112044,Thiophene (thi) [S:1]
+thiophene__S_2,12448,Thiophene (thi) [S:2]
+thiophene__S_3,77458,Thiophene (thi) [S:3]

@@ -1,0 +1,26 @@
+Bz [B:1]      #0B3D20
+Bz [B:2]      #1B5E20
+Bz [B:3]      #2E7D32
+Bz [B:4]      #388E3C
+DBn [B:1,4]   #43A047
+DhDBn [B:1,4] #4CAF50
+Bl [B:1]      #66BB6A
+Bl [B:2]      #81C784
+Bl [B:3]      #A5D6A7
+
+Pd [N:1]      #002B5B
+Pd [N:2]      #004E89
+Pd [N:3]      #1D4ED8
+Pd [N:4]      #2563EB
+Pz [N:1,4]    #0077B6
+Py [N:1]      #0096C7
+Py [N:2]      #48CAE4
+Py [N:3]      #90E0EF
+
+Th [S:1]      #C58B00
+Th [S:2]      #E6A700
+Th [S:3]      #FFD43B
+
+Fu [O:1]      #C2185B
+Fu [O:2]      #E91E63
+Fu [O:3]      #F48FB1

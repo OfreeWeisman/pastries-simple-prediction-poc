@@ -1,0 +1,25 @@
+variant,total_count,molecules,variant_label,ring_type,element,manual_order
+borinine__B_1,99483,91475,Borinine (brn) [B:1],borinine,B,0.0
+borinine__B_2,26627,26058,Borinine (brn) [B:2],borinine,B,1.0
+borinine__B_3,8024,7926,Borinine (brn) [B:3],borinine,B,2.0
+borinine__B_4,87299,81169,Borinine (brn) [B:4],borinine,B,3.0
+14diborinine__B_1_4,214521,180787,"DiBorinine (dbrn) [B:1,4]",14diborinine,B,4.0
+dhdiborinine__B_1_4,189209,160465,"Dhydrodiborinine (dhdb) [B:1,4]",dhdiborinine,B,5.0
+borole__B_1,122126,110585,Borole (bor) [B:1],borole,B,6.0
+borole__B_2,11545,11545,Borole (bor) [B:2],borole,B,7.0
+borole__B_3,83587,77930,Borole (bor) [B:3],borole,B,8.0
+pyridine__N_1,96959,89464,Pyridine (pyd) [N:1],pyridine,N,9.0
+pyridine__N_2,26445,25880,Pyridine (pyd) [N:2],pyridine,N,10.0
+pyridine__N_3,8159,8059,Pyridine (pyd) [N:3],pyridine,N,11.0
+pyridine__N_4,87073,80891,Pyridine (pyd) [N:4],pyridine,N,12.0
+pyrazine__N_1_4,209534,175284,"Pyrazine (pyz) [N:1,4]",pyrazine,N,13.0
+pyrrole__N_1,121709,110327,Pyrrole (pyl) [N:1],pyrrole,N,14.0
+pyrrole__N_2,11832,11832,Pyrrole (pyl) [N:2],pyrrole,N,15.0
+pyrrole__N_3,84321,78884,Pyrrole (pyl) [N:3],pyrrole,N,16.0
+thiophene__S_1,123746,112044,Thiophene (thi) [S:1],thiophene,S,17.0
+thiophene__S_2,12448,12448,Thiophene (thi) [S:2],thiophene,S,18.0
+thiophene__S_3,82998,77458,Thiophene (thi) [S:3],thiophene,S,19.0
+furan__O_1,120149,108943,Furan (fur) [O:1],furan,O,20.0
+furan__O_2,12208,12208,Furan (fur) [O:2],furan,O,21.0
+furan__O_3,83817,78172,Furan (fur) [O:3],furan,O,22.0
+cyclobutadiene__none_none,214429,178355,Cyclobutadiene (cbd),cyclobutadiene,none,24.0
